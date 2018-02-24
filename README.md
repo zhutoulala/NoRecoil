@@ -3,7 +3,7 @@
 ## 绝地求生 吃鸡游戏 去后坐力工具
 
 ------------------------------------------
-Download NoRecoil.exe or NoRecoil_x64.exe, then double click
+Download or compile NoRecoil.exe, then double click to execute
 
 please select favorite weapon: [1-7]
 1. AKM
@@ -13,14 +13,14 @@ please select favorite weapon: [1-7]
 5. UMP9
 6. SKS
 7. UZI
-1
-Selected weapon: AKM
-press 'F9' to enable, 'F10' to disable, 'Ctrl+C' to quit
 
+After selected weapon, enter the game. 
+
+press 'F9' to enable, 'F10' to disable, 'Ctrl+C' to quit the tool
 -------------------------------------------
 使用说明
 --------------------------------------------
-下载NoRecoil.exe或者NoRecoil_x64.exe，然后运行
+下载NoRecoil.exe，然后运行
 
 输入数字1到7选择最喜欢的武器，然后进入游戏
 
