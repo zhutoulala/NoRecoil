@@ -1,0 +1,4 @@
+﻿  NoRecoil.cpp
+e:\chrome download\norecoil-master\norecoil-master\norecoil\norecoil.cpp(54): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  LINK : E:\Chrome Download\NoRecoil-master\NoRecoil-master\x64\Debug\NoRecoil.exe not found or not built by the last incremental link; performing full link
+  NoRecoil.vcxproj -> E:\Chrome Download\NoRecoil-master\NoRecoil-master\x64\Debug\NoRecoil.exe
